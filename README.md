@@ -5,6 +5,10 @@ A simple car animation using HTML, CSS, and JavaScript.
 ![Car Animation screenshot]( screenshot/show.png)
 
 ---
+## 🌐 Live Demo
+
+Check the live version on **Netlify**: [Car Animation Live](https://simplecaranimation.netlify.app/)
+---
 
 ## 🛠️ Tech Stack
 
